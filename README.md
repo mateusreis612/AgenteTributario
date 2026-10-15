@@ -71,3 +71,5 @@ Para garantir a máxima confiabilidade do conteúdo gerado, o notebook opera sob
 * **Solicitação:** Analisar os Empréstimos Compulsórios no contexto dos Tributos de Competência da União.
 * **Resumo da Resposta:** Analisaram-se os Empréstimos Compulsórios dentro da **Teoria Pentapartida** dos tributos, ressaltando que a destinação legal da arrecadação é critério constitucional validador da exação. Explicou-se que se trata de competência privativa da União instituída mediante **Lei Complementar** (art. 148 da CF/88 e art. 15 do CTN). Foram examinadas as hipóteses autorizativas (guerra externa ou sua iminência, calamidade pública e investimento público urgente de relevante interesse nacional), a obrigatoriedade de restituição ao contribuinte e o regime de anterioridade tributária aplicável a cada caso.
 * **Fontes Utilizadas:** CF/88 (art. 148), CTN (arts. 4º e 15), *CTN Esquematizado* (Fábio Dutra) e lições do *IBET* e *Estratégia Concursos*.
+
+https://notebook.google.com/notebook/b13b14b6-858c-417d-8115-a3a00c0caf94
